@@ -13,6 +13,7 @@
 
 | Skill | Description | License |
 |-------|-------------|---------|
+| `mimo-v2-5-omni` | MiMo V2.5 multimodal understanding. Supports image, video, and audio analysis including OCR, video content analysis, and audio transcription. | MIT |
 | `mimo-v2-5-tts` | MiMo V2.5 TTS voice synthesis. Supports preset voices, voice design, voice cloning, emotion styles, dialects, and singing. Supports natural language control, Director Mode, and audio tag control. | MIT |
 
 ## Installation
